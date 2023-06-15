@@ -1,3 +1,14 @@
+# Repository details
+This project is created in response to the interview code challenge given by MyFuturity Global company.
+
+# How to run this project
+1. Clone repository
+2. Open root directory of project
+3. Run `npm install` in terminal
+4. Run `npm start` in terminal
+5. Upload `student-data.xlsx` via the localhost
+6. Make any changes to the `student-data.xlsx` file and re-upload to see functionality of project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
